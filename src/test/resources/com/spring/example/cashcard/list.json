@@ -1,0 +1,6 @@
+[
+  { "id": 99,  "amount": 123.45, "owner": "marco" },
+  { "id": 100, "amount": 100.0,  "owner": "marco" },
+  { "id": 101, "amount": 150.0,  "owner": "marco" },
+  { "id": 102, "amount": 200.0,  "owner": "sergio" }
+]
